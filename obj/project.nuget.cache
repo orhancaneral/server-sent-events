@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Avq9tPhH5+8g/kDlhTNpgTip/NELT930KshaiNiOYnvQLEr5hzBGMgFp7vA4/ws5RqJV65Tr20GZ0NLkC+lnpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\o.eral\\source\\repos\\Server-Sent-Events\\Server-Sent-Events.Server\\Server-Sent-Events.Publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\o.eral\\.nuget\\packages\\lib.aspnetcore.serversentevents\\7.0.0\\lib.aspnetcore.serversentevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\o.eral\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\o.eral\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\o.eral\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\o.eral\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\o.eral\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\o.eral\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
